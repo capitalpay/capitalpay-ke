@@ -38,6 +38,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\cwakh\\Downloads\\Nodejs\\Nodejs\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -90,7 +91,7 @@
       <workItem from="1772746655405" duration="3882000" />
       <workItem from="1772962611162" duration="1138000" />
       <workItem from="1773172529693" duration="649000" />
-      <workItem from="1773173191302" duration="6077000" />
+      <workItem from="1773173191302" duration="9103000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
