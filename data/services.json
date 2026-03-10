@@ -1,0 +1,22 @@
+[
+  {
+    "id": "clearing-forwarding-platform",
+    "name": "Clearing & Forwarding Digital Platform",
+    "summary": "A unified digital payment and compliance framework for Kenya's clearing and forwarding industry, powered by Capital Pay.",
+    "description": "Kenya's clearing and forwarding industry faces critical challenges: delayed agent settlements where importers prioritize government payments over agent fees, leading to cash-flow crises and tax remittance non-compliance. The platform provides digital accreditation validation ensuring only compliant agents can initiate declarations, standardized payments with auto-reconciliation and real-time settlement, minimum fee enforcement with embedded compliance checks, and permanent digital transaction records creating comprehensive audit trails. Capital Pay powers the payments & collection engine, enforces minimum agency fees, enables real-time settlement, provides secure API integrations with customs, government systems, and industry accreditation databases, validates credentials, tax compliance, licenses, and offences in real-time, handles invoicing, reconciliation, and audit trails, and delivers dashboards for industry bodies, KRA, and oversight bodies. Working with partners including KIFWA, the platform drives national impact through revenue assurance, industry professionalization, improved enforcement, trade facilitation, and institutional sustainability, directly supporting Kenya Vision 2030.",
+    "icon": "Building2",
+    "features": [
+      "Digital accreditation and validation system",
+      "Standardized payments with auto-reconciliation",
+      "Real-time settlement and minimum fee enforcement",
+      "Secure API integrations with customs and government",
+      "Real-time credential, tax, and license validation",
+      "Comprehensive invoicing and audit trails",
+      "Dashboards for industry bodies, KRA, and oversight",
+      "Long-term programme partnership with Capital Pay"
+    ],
+    "challenge": "Delayed agent settlements, importers prioritizing government payments over agent fees, cash-flow crisis leading to tax remittance non-compliance, weak audit trails, inconsistent enforcement, destructive price undercutting reducing taxable value of services, and license revocations linked to systemic failures.",
+    "solution": "Unified digital payment and compliance framework for Kenya's clearing and forwarding sector, powered by Capital Pay, with digital accreditation validation, standardized payments, auto-reconciliation, real-time settlement, minimum fee enforcement, embedded compliance checks, and permanent digital transaction records.",
+    "impact": "Revenue assurance, professionalization of the clearing and forwarding industry, enhanced enforcement capabilities, improved trade facilitation, institutional sustainability, and alignment with Kenya Vision 2030 objectives."
+  }
+]
